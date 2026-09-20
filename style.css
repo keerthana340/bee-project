@@ -1,0 +1,24 @@
+:root{
+  --bg:#f6fbfb; --card:#fff; --accent:#18a974; --muted:#6c757d;
+}
+*{box-sizing:border-box;font-family:Inter, system-ui, Arial, sans-serif}
+body{margin:0;background:var(--bg);color:#111}
+.topbar{background:linear-gradient(90deg,#f6f9ed,#f2fff7);padding:16px 24px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-weight:700}
+nav a{color:#0b6; margin-left:10px; text-decoration:none}
+.container{max-width:1100px;margin:22px auto;padding:0 18px}
+.card{background:var(--card);border-radius:8px;padding:20px;margin-bottom:20px;box-shadow:0 2px 6px rgba(10,10,10,0.03)}
+.small{padding:14px}
+.controls{display:flex;gap:10px;align-items:center;margin:10px 0}
+.controls select, input{padding:8px;border-radius:6px;border:1px solid #ddd}
+.btn{background:var(--accent);color:#fff;border:none;padding:8px 12px;border-radius:8px;cursor:pointer}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:12px}
+.plant{background:#fff7e6;padding:14px;border-radius:8px}
+.rental-list .item{padding:16px;border-bottom:1px solid #eee}
+.form-inline{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.form-inline label{display:flex;flex-direction:column;min-width:160px}
+.bookings-list{list-style:none;padding-left:0}
+.bookings-list li{background:#f3fff7;padding:12px;border-radius:6px;margin-bottom:8px}
+.muted{color:var(--muted)}
+.footer{text-align:center;color:#888;padding:18px}
+.availability{font-weight:700;margin-left:10px}

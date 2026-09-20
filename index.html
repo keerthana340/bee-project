@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Bee-Friendly Gardening — Guide & Rentals</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">🐝 Bee-Friendly Gardening — Guide & Rentals</div>
+    <nav>
+      <a href="#guide">Guide</a> ·
+      <a href="#rent">Rentals</a> ·
+      <a href="admin.html" target="_blank">Admin</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- GUIDE -->
+    <section id="guide" class="card">
+      <h2>🌼 Beginner Guide & Plant Catalog</h2>
+      <div class="meta">Data file: <span id="datafile">loading...</span></div>
+
+      <div class="controls">
+        <select id="seasonFilter">
+          <option value="">All seasons</option>
+          <option>Spring</option>
+          <option>Summer</option>
+          <option>Rainy</option>
+          <option>Autumn</option>
+          <option>Winter</option>
+          <option>All</option>
+        </select>
+        <input id="search" placeholder="Search plant name..." />
+        <button id="recommendBtn" class="btn">Recommend for me</button>
+      </div>
+
+      <div id="plantGrid" class="grid"></div>
+
+    </section>
+
+    <!-- RENTALS -->
+    <section id="rent" class="card">
+      <h2>🚜 Equipment Rentals</h2>
+
+      <div id="rentalList" class="rental-list">
+        <!-- filled by JS -->
+      </div>
+
+      <h3>Book Equipment</h3>
+      <form id="bookingForm" class="form-inline">
+        <label>Equipment:
+          <select id="equipmentSelect"></select>
+        </label>
+
+        <label>Your Name:
+          <input id="renterName" required />
+        </label>
+
+        <label>Phone:
+          <input id="renterPhone" required />
+        </label>
+
+        <!-- Calendar input to pick rental date -->
+        <label>Rental Date:
+          <input type="date" id="rentalDate" required />
+        </label>
+
+        <label>Days:
+          <input type="number" id="rentalDays" min="1" value="1" required />
+        </label>
+
+        <button type="submit" class="btn">Book Now</button>
+      </form>
+
+      <h3>Your Bookings</h3>
+      <ul id="bookingsList" class="bookings-list"></ul>
+    </section>
+  </main>
+
+  <footer class="footer">Demo project — run with Live Server in VS Code.</footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

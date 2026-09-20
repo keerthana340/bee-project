@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Admin — Bookings</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Admin » Bookings</div>
+    <nav><a href="index.html">Home</a></nav>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Admin Login</h2>
+      <div>
+        <label>Username: <input id="adminUser" value="admin" /></label>
+        <label>Password: <input id="adminPass" type="password" /></label>
+        <button id="loginBtn" class="btn">Login</button>
+        <button id="logoutBtn" class="btn" style="display:none;background:#e74c3c">Logout</button>
+      </div>
+    </section>
+
+    <section id="adminContent" class="card" style="display:none">
+      <h3>Bookings (admin)</h3>
+      <div style="display:flex;gap:10px;align-items:center">
+        <input id="searchInput" placeholder="Search name or phone" />
+        <button id="exportBtn" class="btn">Export to CSV</button>
+      </div>
+
+      <table id="bookingsTable" border="1" style="width:100%;margin-top:12px;border-collapse:collapse">
+        <thead><tr><th>Name</th><th>Phone</th><th>Equipment</th><th>Days</th><th>Rental Date</th><th>Booked On</th></tr></thead>
+        <tbody id="bookingsTableBody"><tr><td colspan="6" class="muted">No bookings</td></tr></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="admin.js"></script>
+</body>
+</html>

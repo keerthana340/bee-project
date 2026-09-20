@@ -1,0 +1,5002 @@
+[
+  {
+    "Plant Name":"Lavender_3158",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5978",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7112",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2862",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1018",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8408",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1631",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9757",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7009",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8756",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9998",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6674",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7564",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2623",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5423",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9306",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6426",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2056",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5211",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4262",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6877",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6470",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1220",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1039",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9159",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7598",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7738",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7052",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1567",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4826",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1488",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6451",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2037",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6109",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4313",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9043",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4897",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6140",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4250",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3938",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2000",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5961",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8055",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7307",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9429",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6975",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3698",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8325",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4807",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3238",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8666",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9443",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2609",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8025",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5656",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3982",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9263",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9594",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9030",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5223",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3902",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4761",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3266",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6453",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2183",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3473",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6867",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8348",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6476",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4239",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2987",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1434",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8326",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8615",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5304",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7325",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3930",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5985",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3046",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1596",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3926",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6367",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1876",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1994",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8737",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6074",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7156",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8185",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3379",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5702",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6446",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6983",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4915",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4730",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4973",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6045",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6450",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2200",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5957",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5166",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3874",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2584",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3538",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2168",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3808",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5436",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8537",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9344",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8768",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7712",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1758",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4929",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4599",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3569",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4863",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6355",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7657",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7255",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1325",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4368",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1624",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7752",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6088",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1293",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8172",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3146",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2715",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1485",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5059",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1583",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5960",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6170",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6490",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7447",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3829",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6560",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8756",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8337",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2239",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4850",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7071",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9473",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8387",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5991",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3125",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1207",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4113",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1135",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6098",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5204",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4305",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2211",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6355",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3968",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6685",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6557",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4558",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3539",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1062",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9550",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1614",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4826",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6672",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8634",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2128",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4438",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9428",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1782",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1076",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9006",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3477",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1886",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8805",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9133",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6418",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4695",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8114",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8748",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9469",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9859",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5953",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6176",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8342",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6259",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2180",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9646",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4093",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7558",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8578",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2333",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9127",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3992",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2281",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1848",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4709",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3054",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9177",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1508",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6267",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9762",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6591",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9125",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8337",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9194",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3791",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5910",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2323",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1421",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3555",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5084",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4793",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3500",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6328",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4229",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8393",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9740",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3410",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2099",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4358",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3279",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1132",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2130",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1544",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1931",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3851",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2603",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1632",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6521",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1820",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6499",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1433",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7462",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7390",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5881",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2233",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2189",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2946",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5572",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3341",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2072",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1202",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5592",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3907",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5840",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2758",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3089",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5597",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3708",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8991",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9035",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4501",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6762",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7142",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7925",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2576",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9206",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9809",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8350",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7222",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8139",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4600",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8212",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9131",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7516",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8962",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1811",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2720",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2163",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4053",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3312",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7570",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8183",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1363",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3729",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7962",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9038",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3413",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2951",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5073",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4444",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1097",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1149",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2437",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3865",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7195",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1954",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4586",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4880",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7253",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2777",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5536",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7449",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5092",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7590",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6656",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3784",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8359",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5726",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4011",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3824",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9288",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7022",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4946",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2574",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8838",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7343",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3840",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7022",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2868",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9101",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4178",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2144",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9133",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1095",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6132",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8994",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3569",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5250",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8535",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3747",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8773",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5176",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8276",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5144",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4613",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9054",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4601",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2038",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1930",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9263",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1120",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8425",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3092",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9165",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3875",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1976",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5937",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4287",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2143",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3524",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5484",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2130",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4448",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1074",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5427",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3481",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1173",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6774",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3679",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9172",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5907",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1439",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9357",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3753",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9881",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2311",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1494",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8261",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4231",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6263",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3194",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2573",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4901",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4405",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6459",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3479",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_4633",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3159",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4657",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3279",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1065",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8394",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7498",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8505",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7199",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6821",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5346",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9347",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1899",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1480",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6368",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3579",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6554",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2035",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1563",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6725",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7415",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6045",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7592",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1639",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2891",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5165",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4343",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8193",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1116",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_1433",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1959",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6650",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9656",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5224",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9128",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6001",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1860",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9098",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8837",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2761",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2524",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8231",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4963",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2660",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3347",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6407",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3005",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9300",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1954",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2980",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7614",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2284",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1552",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8207",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3719",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3200",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7641",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7927",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5140",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9197",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6938",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2278",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1563",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1612",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_2740",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8139",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_4979",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3921",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1499",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2235",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3316",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_1643",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_9093",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_3348",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1947",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7682",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_8222",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9677",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7673",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9092",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7943",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8151",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_2993",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5723",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7196",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7064",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7155",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4248",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7272",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8924",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_3730",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_3402",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5903",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_2372",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_5703",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4659",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7423",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8031",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9625",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_5095",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5744",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_9402",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_8228",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6404",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_6390",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6156",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6675",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_2525",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_7054",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_6088",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_6279",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_6781",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5919",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8385",
+    "Season":"All",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1292",
+    "Season":"Rainy",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7742",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3325",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_4969",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9327",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_4437",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5009",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5838",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_1995",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_9315",
+    "Season":"Spring",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_5770",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_7416",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_9823",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_7939",
+    "Season":"All",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_3893",
+    "Season":"Winter",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_8369",
+    "Season":"Spring",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Herb that attracts small native bees."
+  },
+  {
+    "Plant Name":"Lavender_7508",
+    "Season":"Winter",
+    "Nectar Level":"High",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Fragrant, excellent for pollinators."
+  },
+  {
+    "Plant Name":"Sunflower_8163",
+    "Season":"Summer",
+    "Nectar Level":"High",
+    "Sunlight":"Full Sun",
+    "Water Need":"High",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Big nectar source; good for bees."
+  },
+  {
+    "Plant Name":"Marigold_1177",
+    "Season":"Rainy",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Medium",
+    "Attracts Bees":"Yes",
+    "Region":"Gundlupet",
+    "Notes":"Easy to grow, bright flowers."
+  },
+  {
+    "Plant Name":"Basil_5747",
+    "Season":"Summer",
+    "Nectar Level":"Medium",
+    "Sunlight":"Partial Sun",
+    "Water Need":"Low",
+    "Attracts Bees":"Yes",
+    "Region":"Kanakpura",
+    "Notes":"Herb that attracts small native bees."
+  }
+]
